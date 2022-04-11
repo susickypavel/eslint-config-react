@@ -4,6 +4,11 @@
   "description": "Pavel Susicky's personal ESLint configuration for React based projects",
   "main": "lib/index.js",
   "scripts": {},
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Thesoreon/eslint-config-react.git"
@@ -13,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Thesoreon/eslint-config-react/issues"
   },
-  "homepage": "https://github.com/Thesoreon/eslint-config-react#readme"
+  "homepage": "https://github.com/Thesoreon/eslint-config-react#readme",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ]
 }
