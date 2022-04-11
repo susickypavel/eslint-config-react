@@ -1,0 +1,17 @@
+{
+  "name": "@susicky/eslint-config-react",
+  "version": "1.0.0",
+  "description": "Pavel Susicky's personal ESLint configuration for React based projects",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thesoreon/eslint-config-react.git"
+  },
+  "author": "Pavel Sušický",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thesoreon/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/Thesoreon/eslint-config-react#readme"
+}
