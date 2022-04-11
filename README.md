@@ -1,5 +1,7 @@
 # @susicky/eslint-config-react
 
+Disclaimer: This package is not finished 😀
+
 ## Installation
 
 ```sh
